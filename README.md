@@ -13,6 +13,9 @@ A toy example explains how to use the these function. For "L0SGNCP", before runn
 ## Data
 This code has built-in some data mentioned in our paper[<sup>1</sup>](#refer-id), and the rest of the data can be downloaded from the mentioned public website. 
 
+## Contact details
+If you have any questions, please contact WeifengYang.Ywf@gmail.com and minwenwen@ynu.edu.cn
+
 ## Reference
 <div id="refer-id"></div>
 [1] Sparse nonnegative CP decomposition with graph regularization and ℓ0-constraints for clustering. 
